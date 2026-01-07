@@ -40,7 +40,7 @@ Passionate about creating responsive, user-friendly mobile applications using mo
 <h2> Where to Find Me</h2>
 
 <p>
-  <a href="www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/rifana-sherin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://www.instagram.com/r.iffana?igsh=MzM0bWd1YTZ5ZGRv" target="_blank">

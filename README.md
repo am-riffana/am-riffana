@@ -33,6 +33,11 @@ Passionate about creating responsive, user-friendly mobile applications using mo
   <a href="https://flutter.dev" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter"/>
   </a>
+
+  <a href="https://pub.dev/packages/hive" target="_blank">
+  <img src="https://raw.githubusercontent.com/hivedb/hive/master/logo/hive.png" width="42" height="42" alt="Hive"/>
+</a>
+
 </p>
 
 <hr/>

@@ -42,7 +42,7 @@ Passionate about creating responsive, user-friendly mobile applications using mo
 
 <hr/>
 
-<h2> Where to Find Me</h2>
+<h2> Where to Find Me </h2>
 
 <p>
   <a href="https://www.linkedin.com/in/rifana-sherin/" target="_blank">
@@ -56,4 +56,4 @@ Passionate about creating responsive, user-friendly mobile applications using mo
 <hr/>
 <h3> Career Goal</h3>
 <p>
-To start my career as a Flutter Developer, building scalable and high-quality mobile applications while continuously learning and growing with modern Flutter technologies.</p>
+To Start my career as a Flutter Developer, building scalable and high-quality mobile applications while continuously learning and growing with modern Flutter technologies.</p>

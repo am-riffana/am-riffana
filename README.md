@@ -4,7 +4,7 @@
 <h3>Flutter Developer |Self learning| Learning • Building • Improving</h3>
 
 <p>
-Passionate about creating responsive, user-friendly mobile applications using modern Flutter technologies.
+Passionate about creating responsive,user-friendly mobile applications using modern Flutter technologies.
 </p>
 
 </div>
@@ -54,6 +54,6 @@ Passionate about creating responsive, user-friendly mobile applications using mo
 </p>
 
 <hr/>
-<h3> Career Goal</h3>
+<h3>Career Goal</h3>
 <p>
 To Start my career as a Flutter Developer, building scalable and high-quality mobile applications while continuously learning and growing with modern Flutter technologies.</p>

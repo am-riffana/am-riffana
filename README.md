@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hey, I'm Rifana Sherin 👋</h1>
-<h3>Flutter Developer | Learning • Building • Improving</h3>
+<h3>Flutter Developer |Self learning| Learning • Building • Improving</h3>
 
 <p>
 Passionate about creating responsive, user-friendly mobile applications using modern Flutter technologies.

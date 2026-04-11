@@ -23,19 +23,19 @@ Passionate about creating responsive,user-friendly mobile applications using mod
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="41" height="41" alt="JavaScript"/>
   </a>
 
   <a href="https://dart.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="42" height="42" alt="Dart"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="41" height="41" alt="Dart"/>
   </a>
 
   <a href="https://flutter.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="41" height="41" alt="Flutter"/>
   </a>
 
   <a href="https://pub.dev/packages/hive" target="_blank">
-  <img src="[https://raw.githubusercontent.com/hivedb/hive/master/logo/hive.png](https://avatars.githubusercontent.com/u/55202745?s=280&v=4)" width="42" height="42" alt="Hive"/>
+  <img src="[https://raw.githubusercontent.com/hivedb/hive/master/logo/hive.png](https://avatars.githubusercontent.com/u/55202745?s=280&v=4)" width="41" height="41" alt="Hive"/>
 </a>
 
 </p>

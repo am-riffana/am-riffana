@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hey, I'm Rifana Sherin 👋</h1>
+<h1>Hey, I'm rifana Sherin 👋</h1>
 <h3>Flutter Developer |Self learner| Learning • Building • Improving</h3>
 
 <p>

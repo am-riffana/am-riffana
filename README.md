@@ -35,7 +35,7 @@ Passionate about creating responsive,user-friendly mobile applications using mod
   </a>
 
   <a href="https://pub.dev/packages/hive" target="_blank">
-  <img src="[https://raw.githubusercontent.com/hivedb/hive/master/logo/hive.png](https://avatars.githubusercontent.com/u/55202745?s=280&v=4)" width="42" height="41" alt="Hive"/>
+  <img src="[https://raw.githubusercontent.com/hivedb/hive/master/logo/hive.png](https://avatars.githubusercontent.com/u/55202745?s=280&v=4)" width="42" height="42" alt="Hive"/>
 </a>
 
 </p>

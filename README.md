@@ -23,7 +23,7 @@ Passionate about creating responsive,user-friendly mobile applications using mod
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" "/>
   </a>
   
   <a href="https://dart.dev" target="_blank">

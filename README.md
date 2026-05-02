@@ -6,7 +6,9 @@
 
 <p>
 Passionate about creating responsive,user-friendly mobile applications using modern Flutter technologies.
+ 
 </p>
+
 
 </div>
 

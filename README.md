@@ -9,7 +9,6 @@ Passionate about creating responsive,user-friendly mobile applications using mod
  
 </p>
 
-
 </div>
 
 <hr/>

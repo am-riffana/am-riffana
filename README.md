@@ -25,7 +25,6 @@
 
 <hr/>
 
-<!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
@@ -38,7 +37,6 @@
 
 <hr/>
 
-<!-- Current Focus -->
 <h2 align="center">🔥 Current Focus</h2>
 
 <div align="center">
@@ -51,7 +49,6 @@
 
 <hr/>
 
-<!-- Social Links -->
 <h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
@@ -68,7 +65,6 @@
 
 <hr/>
 
-<!-- Career Goal -->
 <h2 align="center">🎯 Career Goal</h2>
 
 <div align="center">

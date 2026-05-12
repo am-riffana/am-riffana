@@ -1,6 +1,5 @@
 <div align="center">
 
-  <!-- Animated Heading -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=FF6F00&center=true&vCenter=true&width=600&lines=Hey+I'm+Rifana+Sherin+👋;Flutter+Developer+🚀;Learning+•+Building+•+Improving" />
 
   <h3>💙 Flutter Developer | Self Learner</h3>
@@ -10,14 +9,12 @@
     using modern Flutter technologies.
   </p>
 
-  <!-- GIF Animation -->
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250"/>
 
 </div>
 
 <hr/>
 
-<!-- Tools Section -->
 <h2 align="center">🛠️ Languages & Tools</h2>
 
 <p align="center">

@@ -37,7 +37,7 @@
 
 <hr/>
 
-<h2 align="center">🔥Current Focus</h2>
+<h2 align="center">🔥 Current Focus</h2>
 
 <div align="center">
 
@@ -79,7 +79,6 @@
 
 <hr/>
 
-<!-- Footer Quote -->
 <div align="center">
 
   <h3>✨ Code • Learn • Improve • Repeat ✨</h3>

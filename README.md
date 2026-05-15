@@ -37,7 +37,7 @@
 
 <hr/>
 
-<h2 align="center">🔥 Current Focus</h2>
+<h2 align="center">🔥Current Focus</h2>
 
 <div align="center">
 

@@ -63,8 +63,6 @@
 
 </div>
 
-
-
 <hr/>
 
 <h2 align="center">🎯 Career Goal</h2>

@@ -84,6 +84,4 @@
 
   <h3>✨ Code • Learn • Improve • Repeat ✨</h3>
 
-  
-
 </div>

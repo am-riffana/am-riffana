@@ -1,7 +1,4 @@
 <div align="center">
-
-
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=FF6F00&center=true&vCenter=true&width=600&lines=Hey+I'm+Rifana+Sherin+👋;Flutter+Developer+🚀;Learning+•+Building+•+Improving" />
 
   <h3> Flutter Developer | Self Learner</h3>
